@@ -13,7 +13,7 @@ I'm Rayen Ben Aziza, a passionate **Computer Science Student** with a strong foc
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages:
-- **Python**, **SQL**, **JavaScript**
+- **Python**, **SQL**, **JAVA** , **C** , **R**
 
 ### Frameworks & Libraries:
 - **TensorFlow**, **LangChain**, **FastAPI**, **Django**, **Docker**
