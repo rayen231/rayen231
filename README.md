@@ -34,16 +34,19 @@ I'm Rayen Ben Aziza, a passionate **Computer Science Student** with a strong foc
 
 ## 🚀 Notable Projects
 
-### 1. **DBChatty**
+### 1. **Financial Insights**
+A cutting-edge AI-powered financial insights platform designed to empower users with in-depth analysis and personalized recommendations. This project combines the power of Angular, FastAPI, and state-of-the-art AI technologies to deliver actionable insights into stock markets, financial news, and personalized portfolio management.
+
+### 2. **DBChatty**
 A web and desktop app for database management, leveraging AI and the **RAG technique** to build a chatbot that answers database-specific queries.
 
-### 2. **Emotion Classification System**
+### 3. **Emotion Classification System**
 An AI model trained to detect and classify human emotions from text or speech.
 
-### 3. **Fake News Detection System**
+### 4. **Fake News Detection System**
 A machine learning project aimed at identifying misinformation using NLP techniques.
 
-### 4. **Product Review Indexation**
+### 5. **Product Review Indexation**
 An e-commerce solution that indexes and categorizes product reviews by sentiment to enhance customer insights.
 
 ---
