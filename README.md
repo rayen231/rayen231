@@ -1,83 +1,139 @@
-# Hi there, I'm Rayen Ben Aziza! 👋
+<div align="center">
 
-## 👨‍💻 About Me
-I'm Rayen Ben Aziza, a passionate **Computer Science Student** with a strong focus on **Backend Development** and **AI Development**. As a **Python Instructor**, I enjoy sharing knowledge and empowering others to dive into the world of programming and technology. My journey is fueled by curiosity and a drive to create impactful solutions.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Rayen+%F0%9F%91%8B;AI+Engineer+%C2%B7+LLM+Systems+%C2%B7+Voice+AI;Shipping+AI+that+you+can+trace+and+trust" alt="Typing intro"/>
 
-### 🌟 Professional Snapshot
-- 🧑‍🏫 **Python Instructor**: Helping students master Python programming and AI fundamentals.
-- 💻 **AI Developer**: Crafting intelligent systems using cutting-edge AI and ML techniques.
-- 🔧 **Backend Developer**: Building robust and scalable applications with frameworks like FastAPI and Django.
+<a href="https://linkedin.com/in/rayen-ben-aziza-5a2886264"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rayenbenaziza1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=rayen231&style=for-the-badge&color=7C3AED&label=Profile+views"/>
 
----
+</div>
 
-## 🛠️ Skills & Technologies
+<br/>
 
-- **Python**, **SQL**, **JAVA**, **C**, **R**
+```python
+class Rayen:
+    role       = "AI Engineer @ EVIMO"            # AI for EV charging, across Europe
+    experience = "2+ years shipping AI to production"
+    focus      = ["LLM Systems", "RAG", "LLMOps", "Speech & Voice AI"]
+    side_quest = "Teaching GenAI & data science @ GoMyCode"
+    studying   = "Engineering degree in Computer Science"
+    speaks     = ["Arabic", "English", "French", "Python"]
+    motto      = "If you can't trace it, you can't trust it."
+```
 
-### Frameworks & Libraries:
-- **TensorFlow**, **LangChain**, **FastAPI**, **Django**, **Docker**
+### ⚡ What I work on
 
-### Cloud & Automation:
-- **Azure Services**, **Automation Tools**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Domains:
-- **Machine Learning (ML)**, **Deep Learning (DL)**
-- **Natural Language Processing (NLP)**
+**🧠 LLM Systems & Agents**<br/>
+Multi-agent architectures, RAG pipelines, prompt engineering, function calling and LLM fine-tuning.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🌱 Currently Learning
-- **Azure Services**: Expanding my expertise in cloud-based solutions to deliver scalable and efficient AI systems.
+**🔍 LLMOps & Evaluation**<br/>
+Tracing, experiment tracking and evaluation with MLflow, LLM-as-a-judge, and tuning retrieval and prompts using real data.
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## 🚀 Notable Projects
+**🎙️ Speech AI**<br/>
+Speech-to-text, speaker diarization, model benchmarking and fine-tuning, and multimodal (text + audio) sentiment analysis.
 
-### 1. **Financial Insights**
-A cutting-edge AI-powered financial insights platform designed to empower users with in-depth analysis and personalized recommendations. This project combines the power of Angular, FastAPI, and state-of-the-art AI technologies to deliver actionable insights into stock markets, financial news, and personalized portfolio management.
+</td>
+<td valign="top">
 
-### 2. **DBChatty**
-A web and desktop app for database management, leveraging AI and the **RAG technique** to build a chatbot that answers database-specific queries.
+**📞 Real-Time Voice AI**<br/>
+Low-latency voicebots with LiveKit over SIP, plus conversational AI on WhatsApp, Telegram and web.
 
-### 3. **Emotion Classification System**
-An AI model trained to detect and classify human emotions from text or speech.
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 4. **Fake News Detection System**
-A machine learning project aimed at identifying misinformation using NLP techniques.
+**📡 AI for IoT & Predictive Maintenance**<br/>
+Telemetry monitoring, anomaly detection and time-series analysis for connected devices.
 
-### 5. **Product Review Indexation**
-An e-commerce solution that indexes and categorizes product reviews by sentiment to enhance customer insights.
+</td>
+<td valign="top">
 
----
+**⚙️ Production AI Engineering**<br/>
+AI services with FastAPI and gRPC, event-driven pipelines, vector databases, Docker and CI/CD.
 
-## 🎯 Career Goals
-My ultimate goal is to become a **Lead Data Scientist**, creating AI-driven solutions that address real-world challenges while advancing my expertise in **Deep Learning** and **AI-powered automation**.
+</td>
+</tr>
+</table>
 
----
+### 🛠️ Toolbox
 
-## 📫 Contact Me
-- **Email**: rayenbenaziza1234@gmail.com
-- **LinkedIn**: [Rayen Ben Aziza](https://www.linkedin.com/in/rayenbenaziza/)
-
----
-
-## 💡 Fun Fact
-I enjoy sharing knowledge, solving complex problems, and exploring the latest advancements in AI and backend technologies. When I’m not coding, I’m likely learning new skills or diving into challenging tech projects.
-
----
-
-**Languages and Tools**:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" alt="azure" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,ts,nestjs,react&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,githubactions,linux,git&perline=8" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LiveKit-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white"/>
+</p>
+
+### 🧭 How I build AI
+
+> **Trace everything.** Every LLM answer should be explainable: which prompt, which context, which score.<br/>
+> **Evaluate before you scale.** Golden datasets and LLM-as-a-judge before guesswork.<br/>
+> **Fail loudly, not silently.** A clear error is better than a confident wrong answer.<br/>
+> **Ship it.** A model in a notebook helps nobody. Production is where AI starts to matter.
+
+### 🚀 Journey
+
+```text
+2024 ──● AI Developer Intern       @ CRDA Mahdia   → RAG over databases, natural language to SQL
+       │
+2024 ──● GenAI & DS Instructor     @ GoMyCode      → teaching LLMs, RAG & ML (still going)
+       │
+2025 ──● AI Engineer               @ Roundesk      → multi-agent LLMs, speech AI, voicebots
+       │
+2026 ──● AI Engineer               @ EVIMO         → AI for EV charging across Europe
+```
+
+### 🎓 Teaching & Community
+
+I teach the **NVIDIA Generative AI track** and **end-to-end data science** at GoMyCode, and have mentored **50+ students** as they build their first chatbots, agents and RAG systems.
+
+### 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-AI%20for%20Predictive%20Maintenance-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA%202-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Novation%20City-Industry%204.0-555555?style=flat-square"/>
+</p>
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rayen231&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayen231/rayen231/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayen231/rayen231/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rayen231/rayen231/output/github-snake.svg" />
+  </picture>
+</p>
+
+<div align="center">
+
+**💬 Ask me about:** LLMOps · RAG · speech AI · real-time voice · getting AI out of notebooks and into production
+
+</div>
